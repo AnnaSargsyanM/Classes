@@ -1,19 +1,7 @@
-//****************************************************************************************************
-//     File:               SportMain.cpp
-// 
-//     Student:            Anna Sargsyan
-// 
-//     Assignment:         Program #12
-// 
-//     Course Name:        Programming II
-// 
-//     Course Number:      COSC 1560-01
-// 
-//     Due:                December 8, 2023
-//
-//     This program is a modification of the previous assignment. the new version 
-//     uses constructor, deconstructor, inline and std::.
-//
+//     This program offers several options to user: populate or display all sports, 
+//     populate or display a particular sport, display the average number of teams 
+//     or the sport with the earliest game.
+//     Program uses struct, class, constructor, deconstructor, inline and std::.
 //****************************************************************************************************
 
 #include "Sport.h"
